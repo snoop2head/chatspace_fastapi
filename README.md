@@ -10,7 +10,7 @@ But Chatspace uses torch as dependency. On linux, torch module takes up 750MB of
 
 
 ### Input Format Sample: url + query
-http://127.0.0.1:8000/proofread/아버지가방에들어가신다
+> http://127.0.0.1:8000/proofread/아버지가방에들어가신다
 
 ### Output Format Sample: json
 ```json
