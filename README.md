@@ -1,8 +1,8 @@
 # Chatspace Fastapi
 ### Korean spacing API server made with [FastAPI](https://github.com/tiangolo/fastapi) and [Chatspace](https://github.com/pingpong-ai/chatspace)
 
-Previous project built[Chatspace API built with Flask](https://github.com/snoop2head/chatspace_api).
-Along with it, this project builds [API server with FastAPI](https://github.com/tiangolo/fastapi).
+In previous project, [Chatspace API was built with Flask.](https://github.com/snoop2head/chatspace_api)
+Along with it, this project builds Chatspace API server with [the FastAPI.](https://github.com/tiangolo/fastapi)
 
 Chatspace is Korean Sentence spacing module according to grammar. Being developed by chatbot company scatterlab, it shows good performance for proofreading. 
 
