@@ -9,10 +9,10 @@ Chatspace is Korean Sentence spacing module according to grammar. Being develope
 But Chatspace uses torch as dependency. On linux, torch module takes up 750MB of disk space in linux environment. Thus it’s too heavy to run with other applications on the same server. 
 
 
-### Input Format as url + query
+### Input Format Sample: url + query
 http://127.0.0.1:8000/proofread/아버지가방에들어가신다
 
-### Output Format
+### Output Format Sample: json
 ```json
 {
 "success": true,
